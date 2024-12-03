@@ -30,7 +30,7 @@ After installing dependencies, you can start the server:
 bash
 Copy code
 npm start
-The application will run on http://localhost:3000 (or another port depending on the configuration).
+The application will run on http://localhost:5000 (or another port depending on the configuration).
 
 To manage users and roles:
 
@@ -58,28 +58,4 @@ RBAC-PROJECT/
 Contributing
 If you want to contribute to this project, feel free to fork the repository, make changes, and submit a pull request. Contributions are always welcome!
 
-Steps to contribute:
-Fork the repository.
-Clone your fork:
-bash
-Copy code
-git clone https://github.com/yourusername/RBAC-PROJECT.git
-Create a branch for your feature or fix:
-bash
-Copy code
-git checkout -b feature-name
-Make your changes and commit them:
-bash
-Copy code
-git commit -m "Description of changes"
-Push your branch to your fork:
-bash
-Copy code
-git push origin feature-name
-Open a pull request on the original repository.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-Special thanks to [YourMentor/Contributor] for guidance and contributions.
-[Any other resources or inspiration used in the project]
